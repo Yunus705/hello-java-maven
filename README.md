@@ -39,17 +39,17 @@ Jenkins Installed on EC2
 
 Global Tool Configuration:
 
-    JDK added
+JDK added
 
-    Maven added
+Maven added
 
 Freestyle Job Created:
 
-    Source Code Management → GitHub repo
+Source Code Management → GitHub repo
 
-    Build Step → Invoke top-level Maven targets
+Build Step → Invoke top-level Maven targets
 
-    Goals: clean package
+Goals: clean package
 
 Build triggered manually.
 
@@ -57,4 +57,4 @@ Build triggered manually.
 
 In Jenkins → Console Output:
 
-    [INFO] BUILD SUCCESS
+[INFO] BUILD SUCCESS
